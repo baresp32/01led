@@ -9,3 +9,5 @@ lib/**/secrets.cpp
 # Evitar archivos locales
 *.env
 *.ini.local
+
+.vscode/

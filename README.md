@@ -1,3 +1,8 @@
+
+# Readme
+- Programa que enciende una led cada 1 segundo
+
+
 # ESP32 Sensor Device
 
 Proyecto ESP32 desarrollado con PlatformIO.  

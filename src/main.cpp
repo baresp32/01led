@@ -1,5 +1,5 @@
 #include <Arduino.h>
-//secretos para proyecto
+// secretos para proyecto
 #include "secrets.h"
 
 const int LED_PIN = 23;
@@ -17,5 +17,5 @@ void loop()
   digitalWrite(LED_PIN, HIGH);
   delay(1000);
   digitalWrite(LED_PIN, LOW);
-  delay(3000);
+  delay(1000);
 }
